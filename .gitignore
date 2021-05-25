@@ -1,1 +1,7 @@
 .idea/
+*/__pycache/*
+*/__pycache__/*
+04/demos/Observer/ContextObserver/__pycache__
+*/__pycache__/
+.*/__pycache__/
+__pycache__/
